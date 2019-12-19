@@ -1,5 +1,4 @@
-# Sha1 Hashing Algorithm Python, Sha1 v0.1
-#   by: Jason Robertson
+# Sha1 Hashing Algorithm Python, Sha1
 #   start date: 8/28/2019
 
 import utilities as utils
